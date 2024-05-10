@@ -1,6 +1,4 @@
 # gertso-to-lazy-to-make-doc
-## disclaimr - not my words but one of a lazy person- so I used AI to organize this BS in 1 min
-
 ### Retro Gaming Cart Setup
 
 I remember Chris having issues finding a place to put his CRT, and this is the solution I came up with for my setup. The concept of a 'retro cart' isn't new, but I believe my approach is pretty solid and requires only the most basic tools to assemble. Here's how I did it:
@@ -25,3 +23,5 @@ This setup is functional and aesthetically pleasing, making it a great solution 
 | Compact power strip for electronics management           | 12 Outlet Power Strip             | [Amazon Power Strip](https://www.amazon.com/dp/B0CS66Q6DY?ref=ppx_yo2ov_dt_b_product_details&th=1) |
 | Video switch for connecting multiple devices without lag | 8 Port Composite Switch           | [Amazon Composite Switch](https://www.amazon.com/dp/B0881S1N8C?ref=ppx_yo2ov_dt_b_product_details&th=1) |
 | Compact speakers for gaming                              | Presonus Eris 3.5 Speakers        | [Amazon Presonus Eris 3.5](https://www.amazon.com/gp/product/B075QVMBT9/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) |
+
+### disclaimr - not my words but one of a lazy person- so I used AI to organize this BS in 1 min
